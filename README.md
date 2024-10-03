@@ -1,0 +1,1 @@
+This project is part of the Odin Project course, In order to create the Odin-Recipes-Project i will have to use the basic html and git skills previously acquired while learning new skills .
